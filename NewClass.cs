@@ -8,5 +8,6 @@ namespace Vjezba1
 {
     internal class NewClass
     {
+        int x = 10;
     }
 }
