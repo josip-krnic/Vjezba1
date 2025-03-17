@@ -10,3 +10,6 @@ namespace Vjezba1
     {
     }
 }
+
+
+//Ekstermintor je došao. Buba više nema.
