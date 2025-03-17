@@ -7,3 +7,4 @@
     }
 }
 //Ovo je Lukin komentar.
+// bug demolished
